@@ -8,7 +8,7 @@ The analysis compares the **Chevallier–Polarski–Linder (CPL)** parametrizati
 
 ## 📂 Repository Contents
 - **`codes.zip`** – All Python code used in this analysis:
-  - Cosmological models (CPL and Generalized)  
+  - Cosmological models (CPL, Generalized, JBP and LOG parametrisation.)  
   - Implementation of all systematic effects considered in the study  
   - Transformation of \((A, B)\) to \((w_0, w_a)\)  
   - Plotting scripts for contour and parameter shift visualizations  
@@ -20,7 +20,6 @@ The analysis compares the **Chevallier–Polarski–Linder (CPL)** parametrizati
 - Calibration offset  
 - Intergalactic dust  
 - Progenitor evolution in \(x_1\) and \(M_B\)  
-- \(\Omega_m\) mismatch(to be added)  
 - Increased scatter in color correction  
 
 ---
